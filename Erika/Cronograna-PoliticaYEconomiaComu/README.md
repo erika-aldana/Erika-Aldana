@@ -12,7 +12,7 @@ ollama pull nomic-embed-text
 ## Cómo correrlo
 
 ./run-chatbot.sh
-./run-consulta.sh "¿Cuándo es el Día de la Independencia?"
+./run-consulta.sh "¿Qué bibliografía hay para la Clase 4?"
 
 
 ## Ejemplos de preguntas
